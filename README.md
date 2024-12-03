@@ -1,6 +1,6 @@
 <img src="https://9040550.fs1.hubspotusercontent-na1.net/hubfs/9040550/__hs-marketplace__/RP%20Green%20Logo-3-1.png" alt="RevPartnersLogo" width="400"/>
 
-<img src="https://drive.google.com/file/d/1KyKc9MdSx46ykLmVpwuSdu9GOCdXFUKi/preview" alt="CustomCard" width="400"/>
+<img src="https://9041195.fs1.hubspotusercontent-na1.net/hubfs/9041195/GitHub/CustomCard.png" alt="CustomCard" width="400"/>
 
 # Service Evaluation Custom Card Project
 
