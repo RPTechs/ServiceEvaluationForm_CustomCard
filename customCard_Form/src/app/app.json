@@ -1,0 +1,16 @@
+{
+  "name": "Service Evaluation Form",
+  "description": "A dynamic HubSpot custom card that embeds a post-service evaluation form directly into contact records.",
+  "uid": "get_started_app",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/serviceEvaluationForm.json"
+        }
+      ]
+    }
+  }
+}
