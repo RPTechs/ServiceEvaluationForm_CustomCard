@@ -47,6 +47,10 @@ To create the project, use the following command:
 ```console
 hs project create
 ```
+Select the option:
+```console
+<Create an empty project ( no template)>
+```
 it isn't necessary to use any template.
 
 ## **Step 5: Upload Project**
