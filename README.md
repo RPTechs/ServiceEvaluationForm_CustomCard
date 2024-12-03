@@ -20,7 +20,7 @@ To deploy and use this project, ensure the following are set up:
 Clone the project to your local environment:  
 
 ```console
-git clone [[repository_url]](https://github.com/RPTechs/ServiceEvaluationForm_CustomCard.git)
+git clone https://github.com/RPTechs/ServiceEvaluationForm_CustomCard.git
 ```
 
 Navigate to the project folder:
@@ -33,21 +33,21 @@ Ensure all required dependencies are installed by running:
 ```console
 npm install
 ```
-## **Step 3: Link Project to HubSpot **
+## **Step 3: Link Project to HubSpot**
 Use the HubSpot CLI to link the project to your HubSpot account:
 
 ```console
 hs init
 ```
 
-## **Step 4: Create Project **
+## **Step 4: Create Project**
 To create the project, use the following command:
 ```console
 hs project create
 ```
 it isn't necessary to use any template.
 
-## **Step 5: Upload Project **
+## **Step 5: Upload Project**
 
 ```console
 hs project upload
